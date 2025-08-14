@@ -17,3 +17,5 @@ SyntaxError: unterminated string literal (detected at line 1)
 >>> 
 """
 
+vov = ['A', 'E', 'I', 'O', 'U']
+print(vov[1 : 4])

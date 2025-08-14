@@ -1,0 +1,17 @@
+h1 {
+  color: teal;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: brown;
+}
+
+button {
+  background-color: darkblue;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}

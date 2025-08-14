@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Box Model - Advanced</title>
+    <style>
+      .wrapper {
+        text-align: center;
+        margin-top: 40px;
+      }
+
+      .box {
+        width: 250px;
+        padding: 20px;
+        border: 4px solid navy;
+        margin: 20px auto;
+        background-color: lavender;
+        transition: all 0.3s ease;
+      }
+
+      .box:hover {
+        background-color: gold;
+        border-color: darkred;
+        transform: scale(1.05);
+      }
+    </style>
+  </head>
+  <body>
+    <h2 style="text-align: center">Box Model - Advanced</h2>
+    <div class="wrapper">
+      <div class="box">Hover over me!</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+/* Element Selector */
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+/* ID Selector */
+#special {
+  color: red;
+  font-weight: bold;
+}
+
+/* Class Selector */
+.highlight {
+  background-color: yellow;
+  padding: 10px;
+}

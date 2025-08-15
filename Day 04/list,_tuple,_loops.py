@@ -9,7 +9,7 @@ Original file is located at
 ## ***Indexing and Slicing***
 """
 
-=# INDEXING AND SLICING
+# INDEXING AND SLICING
 
 str = "Hello"
 
